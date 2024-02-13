@@ -1,0 +1,90 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "map.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        ":/automap-tiles.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/projects/fun-portfolio/public/env_ground.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/projects/fun-portfolio/public/prototype.tsx": {
+            "scaleInDock": 1
+        },
+        "Rules/rules.tmx": {
+            "scale": 4,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 112.375,
+                "y": 54.75
+            }
+        },
+        "env_ground.tsx": {
+            "scaleInDock": 1.5
+        },
+        "map.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1065.5,
+                "y": 3007
+            }
+        },
+        "prototype.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 5.5
+        },
+        "rules.tmx": {
+            "scale": 3,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 82.16666666666666,
+                "y": 45.66666666666667
+            }
+        },
+        "rules/rules.tmx": {
+            "scale": 4,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 93.125,
+                "y": 42
+            }
+        },
+        "terrain.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.externalTilesetPath": "C:/projects/fun-portfolio/public/DarkForest1.2",
+    "last.imagePath": "C:/projects/fun-portfolio/public/DarkForest1.2",
+    "map.height": 200,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 200,
+    "openFiles": [
+        "map.tmx",
+        "rules.tmx"
+    ],
+    "project": "fun.tiled-project",
+    "recentFiles": [
+        "rules.tmx",
+        "map.tmx",
+        "terrain.tsx",
+        "prototype.tsx",
+        "Rules/rules.tmx",
+        "rules/rules.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
